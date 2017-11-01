@@ -1,2 +1,2 @@
 # pandoc
-A template made from markdown that can be converted to anything
+A template made from markdown that can be converted to anything.
