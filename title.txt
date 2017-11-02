@@ -1,0 +1,6 @@
+---
+title: The Sample Book
+author: Rahul Kadukar
+rights: Creative Commons
+language: en-US
+---
